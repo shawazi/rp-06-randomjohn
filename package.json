@@ -1,7 +1,7 @@
 {
   "name": "randomjohn",
   "version": "0.1.0",
-  "homepage": "https://shawazi.github.io/react-06-randomjohn",
+  "homepage": "https://shawazi.github.io/rp-06-randomjohn",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
