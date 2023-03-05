@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-06-randomjohn/static/css/main.fb100f89.css",
-    "main.js": "/react-06-randomjohn/static/js/main.cd27c333.js",
-    "static/media/email.svg": "/react-06-randomjohn/static/media/email.e1f03bb9d1dbef90d259181ea9c9aef7.svg",
-    "static/media/location.svg": "/react-06-randomjohn/static/media/location.0b7d98ab7b9d5092303dd3951b4649a7.svg",
-    "static/media/phone.svg": "/react-06-randomjohn/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
-    "index.html": "/react-06-randomjohn/index.html",
-    "main.fb100f89.css.map": "/react-06-randomjohn/static/css/main.fb100f89.css.map",
-    "main.cd27c333.js.map": "/react-06-randomjohn/static/js/main.cd27c333.js.map"
+    "main.css": "/rp-06-randomjohn/static/css/main.fb100f89.css",
+    "main.js": "/rp-06-randomjohn/static/js/main.fc218972.js",
+    "static/media/email.svg": "/rp-06-randomjohn/static/media/email.e1f03bb9d1dbef90d259181ea9c9aef7.svg",
+    "static/media/location.svg": "/rp-06-randomjohn/static/media/location.0b7d98ab7b9d5092303dd3951b4649a7.svg",
+    "static/media/phone.svg": "/rp-06-randomjohn/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
+    "index.html": "/rp-06-randomjohn/index.html",
+    "main.fb100f89.css.map": "/rp-06-randomjohn/static/css/main.fb100f89.css.map",
+    "main.fc218972.js.map": "/rp-06-randomjohn/static/js/main.fc218972.js.map"
   },
   "entrypoints": [
     "static/css/main.fb100f89.css",
-    "static/js/main.cd27c333.js"
+    "static/js/main.fc218972.js"
   ]
 }
