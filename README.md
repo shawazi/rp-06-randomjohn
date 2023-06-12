@@ -1,1 +1,1 @@
-https://shawazi.github.io/react-06-randomjohn
+https://shawazi.github.io/rp-06-randomjohn
